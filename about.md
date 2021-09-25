@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Informac ión sobre mí
@@ -12,4 +13,4 @@ Descripción larga...
 
 ### Contact me
 
-[email@domain.com](mailto:juanc.casanova@domain.com)
+[juanc.casanova@domain.com](mailto:juanc.casanova@domain.com)
