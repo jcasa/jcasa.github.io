@@ -6,5 +6,4 @@ published: true
 
 En proyecto...
 
-#![_config.yml]({{ site.baseurl }}/images/config.png)
 
